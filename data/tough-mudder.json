@@ -1,0 +1,47 @@
+{
+  "_readme": "HOW TO EDIT THIS FILE: see UPDATING.md in this repository. Add new donations at the TOP of a runner's donations list. Keep the double quotes, keep commas BETWEEN entries, and never leave a comma after the last entry in a list.",
+  "updated": "2026-07-21",
+  "event": {
+    "name": "Tree of Life Cancer Run",
+    "date": "2026-08-15",
+    "location": "Toronto, ON",
+    "goal": 15000,
+    "currency": "CAD",
+    "donateUrl": "give.html",
+    "zeffyEmbedUrl": "",
+    "generalDonations": 0,
+    "generalDonationsNote": "E-transfer and offline donations not tied to a specific runner"
+  },
+  "runners": [
+    {
+      "id": "angus-anderson",
+      "name": "Angus Anderson",
+      "photo": "assets/runners/angus-anderson.jpg",
+      "color": "#5CB8E4",
+      "bio": "Founder of the Angus Anderson Foundation and two-time cancer survivor. Angus's fight began in 2019 in his jaw — two broken bones, six lost teeth, and treatments that cost him his job along with so much else. He paid what insurance wouldn't cover, carried the anxiety and isolation that follow a diagnosis, and when the cancer came back, he beat it a second time. This foundation, and this run, are what he built from all of it.",
+      "whyImRunning": "Every obstacle on this course is nothing compared to a chemo chair. I run so no patient has to face the bills alone.",
+      "goal": 2500,
+      "donateUrl": "",
+      "zeffyEmbedUrl": "",
+      "donations": [
+        {
+          "donor": "Angus Anderson",
+          "amount": 1000,
+          "message": "My personal commitment as a team runner.",
+          "date": "2026-07-21"
+        }
+      ]
+    },
+    {
+      "id": "stacey-mortimer",
+      "name": "Stacey Mortimer",
+      "photo": "assets/runners/stacey-mortimer.jpg",
+      "color": "#E8A33D",
+      "bio": "Stacey is lacing up for the Tree of Life Cancer Run with the team.",
+      "whyImRunning": "I'm running for a friend — and carrying Ruth-Anne Fullan and Anne Sutherland with me on my shirt, every step of the way.",
+      "donateUrl": "",
+      "zeffyEmbedUrl": "",
+      "donations": []
+    }
+  ]
+}

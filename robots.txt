@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ofakyle11.github.io/AndersonFoundation/sitemap.xml
